@@ -1,5 +1,7 @@
 # Automated Exploratory Data Analysis (EDA) System
 
+To open the google colab file, use URL: https://colab.research.google.com/drive/1vHhIRr8UckjHswS72zH6adtnRPwBcRk6#scrollTo=EeAVXxSkie97
+
 ## Project Overview
 This project implements a generalized, automated Exploratory Data Analysis (EDA) system in Python that can analyze any user-provided CSV dataset and generate meaningful, reproducible insights.
 

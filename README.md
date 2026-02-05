@@ -95,7 +95,9 @@ Observational data constraints
 Limited generalizability beyond the dataset scope
 
 Limitations are generated using:
+```python
 generate_limitations(df, dataset_name)
+```
 
 
 ### Reproducibility

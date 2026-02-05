@@ -6,13 +6,6 @@ numpy>=1.21.0
 matplotlib>=3.4.0
 seaborn>=0.11.0
 
-# Optional: LLM API Integration
-# Uncomment if using Anthropic Claude API for insight generation
-# anthropic>=0.18.0
-
-# Optional: Enhanced table formatting for reports
-# tabulate>=0.9.0
-
 # Jupyter Notebook (if using notebook interface)
 # jupyter>=1.0.0
 # ipykernel>=6.0.0
